@@ -33,3 +33,18 @@ Vamos então extrair diversas receitas, limpar os dados e avaliar ingredientes, 
 Leia ATENTAMENTE todos os comentários e desenvolva suas habilidades em análise de dados. Elas podem ser empregadas em qualquer área, desde que dados estejam disponíveis.
 
 ## Bibliotecas
+*Scraping*
+- pip install bs4
+- pip install json
+- pip install requests
+- pip install bs4
+
+*Manipulação, Visualização e Análise de Dados*
+- pip install re
+- pip install numpy
+- pip install pandas
+- pip install seaborn
+- pip install matplotlib
+- pip install pathlib 
+
+<a href="https://www.linkedin.com/in/alexandre-tavares/">Alexandre Tavares</a>
